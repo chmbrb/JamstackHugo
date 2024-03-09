@@ -1,0 +1,3 @@
+[submodule "app-root/themes/terminal"]
+	path = app-root/themes/terminal
+	url = https://github.com/chmbrb/hugo-theme-terminal
